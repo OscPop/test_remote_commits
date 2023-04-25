@@ -8,6 +8,8 @@ The above was hopefully a title.
 * This is an asterix
 2. Hmmm..
 3. Are the asterix's and the numbers different?
+- Testing another list element
+- Wow ...
 
 # Trying out remote commits
 Trying out remote git functions
